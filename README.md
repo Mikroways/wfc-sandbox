@@ -8,11 +8,12 @@ contribuir.
 ## Qué tiene este repositorio
 
 El repositorio tendrá la lista de asistentes con datos de cada uno de ustedes.
-Pueden ser datos reales o datos ficticios. Lo importante es que entre todos
-podamos editar este mismo repositorio. Entonces, el siguiente enlace nos lleva
-al resumen del curso dictado en [SADIO durante el mes de septiembre de
-2020](sadio/). En la carpeta del curso, cada alumno deberá crear un archivo
-siguiendo la siguiente convención para el nombre de archivo:
+Pueden ser datos reales o ficticios. Lo importante es que entre todos
+podamos editar este mismo repositorio. Entonces, en este repositorio,
+encontrarás diferentes carpetas usadas en diferentes momentos del dictado del
+curso. Tu instructor te indicará en qué carpeta deberías crear tu contribución.
+Dentro de esta carpeta, cada alumno deberá crear un archivo siguiendo la
+siguiente convención para el nombre de archivo:
 
 `alumno-{apellido}.{nombre}/README.md`
 
@@ -23,16 +24,16 @@ correcta visualización en la plataforma.
 > Es importante conocer bien el uso de Markdown porque es el formato más
 > utilizado para escribir la documentación de proyectos en git.
 
-Dentro del archivo podrá escribir lo que desee acerca de usted, sea real o
-ficticio. Considere que el repositorio será público por lo que sus datos
-quedarán expuestos.
-Puede además subir imágenes, documentos o lo que desee.
+Dentro del archivo vas a poder escribir lo que quieras acerca tuyo, sea real o
+ficticio. Considerar que el repositorio será público por lo que tus datos
+quedarán expuestos. Podés subir imágenes, documentos o lo que quieras.
 
 A modo de ejemplo, exponemos información acerca del docente en la misma carpeta
-del curso donde los alumnos deberán subir su información.
+del curso donde vas a tener que subir tu información.
 
-Para poder contribuir, entonces deberán crear un fork en un repositorio que
-pertenezca a su usuario. Luego, trabajar en una nueva rama para agergar sus
+Para poder contribuir, entonces se deber crear un fork en un repositorio que
+pertenezca a tu usuario. Luego, trabajar en una nueva rama para agregar tus
 datos, y finalmente relizar un pull request.
 
-> En el libro de git, puede encontrar información de como crear un [pull request](https://git-scm.com/book/es/v2/GitHub-Participando-en-Proyectos).
+> En el libro de git, se puede encontrar información de como crear un
+> [pull request](https://git-scm.com/book/es/v2/GitHub-Participando-en-Proyectos).
